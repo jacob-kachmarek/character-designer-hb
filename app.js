@@ -15,7 +15,7 @@ let headCount = 0;
 let middleCount = 0;
 let bottomCount = 0;
 // set state for all of the character's catchphrases
-let 
+let catchphrase = [];
 
 headDropdown.addEventListener('change', () => {
     // get the value of the head dropdown
